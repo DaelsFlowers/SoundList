@@ -53,10 +53,6 @@ Para comenzar a utilizar SoundList, sigue estos pasos:
 - [Nombre del Desarrollador 2](https://github.com/usuario2)
 - [Nombre del Desarrollador 3](https://github.com/usuario3)
 
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia] - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
 ---
 
 ¡Esperamos que SoundList mejore tus eventos musicales y haga que compartir listas de reproducción sea más divertido que nunca! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
