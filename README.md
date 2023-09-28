@@ -18,9 +18,9 @@ SoundList es una aplicación móvil creada con React Native que te permite crear
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](screenshot1.png)
-![Captura de pantalla 2](screenshot2.png)
-![Captura de pantalla 3](screenshot3.png)
+![Captura de pantalla 1](assets/screen1.png)
+![Captura de pantalla 2](assets/screen2.png)
+![Captura de pantalla 3](assets/screen3.png)
 
 ## Cómo Empezar
 
