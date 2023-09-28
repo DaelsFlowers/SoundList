@@ -14,8 +14,6 @@ SoundList es una aplicación móvil creada con React Native que te permite crear
 
 - **Grupos Privados y Públicos**: Puedes crear grupos privados para eventos exclusivos o grupos públicos para que cualquiera pueda unirse y compartir música.
 
-- **Integración con Plataformas de Streaming**: Conéctate a tus servicios de streaming favoritos como Spotify o Apple Music para importar tus listas de reproducción existentes.
-
 ## Capturas de Pantalla
 
 ![Captura de pantalla 1](assets/screen1.png)
